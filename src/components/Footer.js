@@ -30,7 +30,7 @@ const Footer = (props) => (
         
             </ul>
         </section>
-        <p className="copyright">&copy; vdmo.design</a></p>
+        <p className="copyright">&copy; vdmo.design</p>
     </footer>
 )
 
